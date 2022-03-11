@@ -1,5 +1,5 @@
 {
-    "name": "9pay/bidv",
+    "name": "ninepay/bidv",
     "description": "Laravel/Lumen bidv banking library",
     "type": "library",
     "license": "MIT",
