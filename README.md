@@ -9,7 +9,7 @@ composer require 9pay/bidv
 ```
 
 ## Laravel
-For Laravel version <= **5.4**
+For Laravel version >= **5.4**
 
 ### For Wallet
 
